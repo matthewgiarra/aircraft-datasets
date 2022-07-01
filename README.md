@@ -64,7 +64,7 @@ https://pan.baidu.com/s/11UORs4eaKKPZNscIrtbISg
 
 ## Military Aircraft Detection in Aerial Images (MADAI)
 
-### [project](https://github.com/wangyanfeng231/TransEffiDet), [paper](https://www.hindawi.com/journals/cin/2022/2262549/) ([pdf](https://downloads.hindawi.com/journals/cin/2022/2262549.pdf)), [data](https://pan.baidu.com/s/11UORs4eaKKPZNscIrtbISg) (on Baidu)
+### [project](https://github.com/wangyanfeng231/TransEffiDet), [paper](https://www.hindawi.com/journals/cin/2022/2262549/), [data](https://pan.baidu.com/s/11UORs4eaKKPZNscIrtbISg) (on Baidu)
 
 ### Summary
 This dataset contains 2558 images of military aircraft, labeled as one of five categories (Fighter jets, armed helicopters, bombers, early warning aircraft, and passenger aircraft). 
