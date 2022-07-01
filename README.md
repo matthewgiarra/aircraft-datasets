@@ -1,7 +1,7 @@
 # Aircraft datasets
 ## [CosmiqWorks](https://www.cosmiqworks.org/) *RarePlanes* dataset
 
-[project](https://www.cosmiqworks.org/RarePlanes/), [paper](https://arxiv.org/abs/2006.02963), [data](https://www.cosmiqworks.org/rareplanes-public-user-guide/)
+### [project](https://www.cosmiqworks.org/RarePlanes/), [paper](https://arxiv.org/abs/2006.02963), [data](https://www.cosmiqworks.org/rareplanes-public-user-guide/)
 
 ### Summary
 Overhead imagery of aircraft combining real and synthetic data from airports aroud the world, labeled hierarchically. Contains about 50,000 images and 630,000 bounding box annotations.
@@ -15,9 +15,8 @@ Overhead imagery of aircraft combining real and synthetic data from airports aro
 ![](doc/rareplanes/rareplanes.jpg)
 
 
-## [FGVC (fine-grained visual classification) Aircraft Benchmark](https://www.robots.ox.ac.uk/~vgg/data/fgvc-aircraft/)
-
-[project](https://www.robots.ox.ac.uk/~vgg/data/fgvc-aircraft/), [paper](https://arxiv.org/abs/1306.5151), [data](https://www.robots.ox.ac.uk/~vgg/data/fgvc-aircraft/archives/fgvc-aircraft-2013b.tar.gz)
+## FGVC (fine-grained visual classification) Aircraft Benchmark
+### [project](https://www.robots.ox.ac.uk/~vgg/data/fgvc-aircraft/), [paper](https://arxiv.org/abs/1306.5151), [data](https://www.robots.ox.ac.uk/~vgg/data/fgvc-aircraft/archives/fgvc-aircraft-2013b.tar.gz)
 
 ### Summary
 
@@ -40,8 +39,7 @@ This dataset contains 10,200 images of aircraft, with 100 images for each of 102
 
 
 ## Military Aircraft Detection Dataset
-[project](https://www.kaggle.com/datasets/a2015003713/militaryaircraftdetectiondataset), 
-[data](https://www.kaggle.com/datasets/a2015003713/militaryaircraftdetectiondataset/download)
+### [project](https://www.kaggle.com/datasets/a2015003713/militaryaircraftdetectiondataset), [data](https://www.kaggle.com/datasets/a2015003713/militaryaircraftdetectiondataset/download)
 
 ### Summary
 6178 images of 40 types of military aircraft, from a wide variety of viewing perspectives and environments.
@@ -66,7 +64,7 @@ https://pan.baidu.com/s/11UORs4eaKKPZNscIrtbISg
 
 ## Military Aircraft Detection in Aerial Images (MADAI)
 
-[project](https://github.com/wangyanfeng231/TransEffiDet), [paper](https://www.hindawi.com/journals/cin/2022/2262549/) ([pdf](https://downloads.hindawi.com/journals/cin/2022/2262549.pdf)), [data](https://pan.baidu.com/s/11UORs4eaKKPZNscIrtbISg) (on Baidu)
+### [project](https://github.com/wangyanfeng231/TransEffiDet), [paper](https://www.hindawi.com/journals/cin/2022/2262549/) ([pdf](https://downloads.hindawi.com/journals/cin/2022/2262549.pdf)), [data](https://pan.baidu.com/s/11UORs4eaKKPZNscIrtbISg) (on Baidu)
 
 ### Summary
 This dataset contains 2558 images of military aircraft, labeled as one of five categories (Fighter jets, armed helicopters, bombers, early warning aircraft, and passenger aircraft). 
@@ -83,7 +81,7 @@ This dataset contains 2558 images of military aircraft, labeled as one of five c
 ![](doc/madai/madai_03.jpg)
 
 ## Airliners.net
-[website](https://www.airliners.net/)
+### [website](https://www.airliners.net/)
 
 ### Summary
 In addition to the curated datasets above, the website [www.airliners.net](http://www.airliners.net) hosts lots of images of aircraft, often including assiciated metadata. The images are sortable by multiple criteria including affiliation (military; nonmilitary), type (passenger; single-engine prop; helicopter), view (air-to-air; creative night/dusk/dawn), and others. The [FGVC dataset](#fgvc-fine-grained-visual-classification-aircraft-benchmark) images are apparently derived from this website, and the broader database itself may be useful to produce other custom datasets.
