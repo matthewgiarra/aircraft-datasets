@@ -59,9 +59,6 @@ In addition to images with bounding boxes, the dataset also includes extracted c
 ![](doc/madd/madd_05.jpg)
 ![](doc/madd/madd_06.jpg)
 
-
-https://pan.baidu.com/s/11UORs4eaKKPZNscIrtbISg
-
 ## Military Aircraft Detection in Aerial Images (MADAI)
 
 ### [project](https://github.com/wangyanfeng231/TransEffiDet), [paper](https://www.hindawi.com/journals/cin/2022/2262549/), [data](https://pan.baidu.com/s/11UORs4eaKKPZNscIrtbISg) (on Baidu)
