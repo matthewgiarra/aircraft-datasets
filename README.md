@@ -9,7 +9,7 @@ Overhead imagery of aircraft combining real and synthetic data from airports aro
 ### Annotations
 - Bounding boxes
 - Segmentation masks for synthetic images
-- [Hierarchical labels](https://www.cosmiqworks.org/wp-content/uploads/2020/05/rareplanes-features.jpg)
+- Hierarchical labels
 
 ### Samples
 ![](doc/rareplanes/rareplanes.jpg)
