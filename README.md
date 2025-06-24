@@ -1,7 +1,7 @@
 # Aircraft datasets
 ## [CosmiqWorks](https://www.cosmiqworks.org/) *RarePlanes* dataset
 
-### [project](https://www.cosmiqworks.org/RarePlanes/), [paper](https://arxiv.org/abs/2006.02963), [data](https://www.cosmiqworks.org/rareplanes-public-user-guide/)
+### [project](https://www.iqt.org/library/the-rareplanes-dataset), [paper](https://arxiv.org/abs/2006.02963), [data](https://www.cosmiqworks.org/rareplanes-public-user-guide/)
 
 ### Summary
 Overhead imagery of aircraft combining real and synthetic data from airports aroud the world, labeled hierarchically. Contains about 50,000 images and 630,000 bounding box annotations.
