@@ -84,7 +84,7 @@ This dataset contains 2558 images of military aircraft, labeled as one of five c
 In addition to the curated datasets above, the website [www.airliners.net](http://www.airliners.net) hosts lots of images of aircraft, often including assiciated metadata. The images are sortable by multiple criteria including affiliation (military; nonmilitary), type (passenger; single-engine prop; helicopter), view (air-to-air; creative night/dusk/dawn), and others. The [FGVC dataset](#fgvc-fine-grained-visual-classification-aircraft-benchmark) images are apparently derived from this website, and the broader database itself may be useful to produce other custom datasets.
 
 ### Samples
-The following images were selected by searching [www.airliners.net](www.airliners.net) for the keyword ["contrail"](https://www.airliners.net/search?keywords=contrail).
+The following images were selected by searching [https://www.airliners.net](www.airliners.net) for the keyword ["contrail"](https://www.airliners.net/search?keywords=contrail).
 
 ![](doc/airliners.net/airliners_01.jpg)
 ![](doc/airliners.net/airliners_02.jpg)
